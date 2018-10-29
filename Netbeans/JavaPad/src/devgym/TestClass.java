@@ -7,7 +7,7 @@
 
 /*33.QID - 2.1294 : Working with Methods*/
 
-package javaapplication9;
+package devgym;
 
 /**
  *
