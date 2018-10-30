@@ -20,7 +20,7 @@ public class My_Class {
  
    public static void main(String args[]) {
       // Instantiating the outer class 
-      Outer_Demo outer = new Outer_Demo();
+      My_Class outer = new My_Class();
       
       Inner_Demo2 inner=new Inner_Demo2() {
       public void print() {
