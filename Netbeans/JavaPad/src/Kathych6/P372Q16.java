@@ -19,7 +19,7 @@ public class P372Q16  extends Tire{
 //    }
   }
   
-  void do_stuff() throws  ArithmeticException{
+  void do_stuff() throws  IllegalThreadStateException{
      System.out.println(7/0);
    }
   
